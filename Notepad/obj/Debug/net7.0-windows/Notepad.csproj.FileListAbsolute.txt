@@ -1,0 +1,17 @@
+E:\C#\Notepad\Notepad\bin\Debug\net7.0-windows\Notepad.exe
+E:\C#\Notepad\Notepad\bin\Debug\net7.0-windows\Notepad.deps.json
+E:\C#\Notepad\Notepad\bin\Debug\net7.0-windows\Notepad.runtimeconfig.json
+E:\C#\Notepad\Notepad\bin\Debug\net7.0-windows\Notepad.dll
+E:\C#\Notepad\Notepad\bin\Debug\net7.0-windows\Notepad.pdb
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.Form1.resources
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.GenerateResource.cache
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.AssemblyInfoInputs.cache
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.AssemblyInfo.cs
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.csproj.CoreCompileInputs.cache
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.dll
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\refint\Notepad.dll
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.pdb
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.genruntimeconfig.cache
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\ref\Notepad.dll
+E:\C#\Notepad\Notepad\obj\Debug\net7.0-windows\Notepad.findDialog.resources
